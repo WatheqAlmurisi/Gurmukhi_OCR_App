@@ -32,7 +32,7 @@
 
 ---
 
-# 🇸🇦 العربية
+#  العربية
 
 ## 📖 نظرة عامة
 
@@ -178,7 +178,7 @@ Flutter UI → عرض Bounding Boxes + إحصائيات
 
 ---
 
-# 🇬🇧 English
+#  English
 
 ## 📖 Overview
 
